@@ -6,3 +6,7 @@ Lost in a mysterious plane ruled by the laws of Mathematics, you need to unravel
 ![alt text](https://github.com/Mr-Barros/Modulus/blob/main/Screenshot1.png)
 ![alt text](https://github.com/Mr-Barros/Modulus/blob/main/Screenshot2.png)
 ![alt text](https://github.com/Mr-Barros/Modulus/blob/main/Screenshot3.png)
+
+![alt text](https://www.youtube.com/watch?v=AeXHr__fXHc)
+
+To try the playground, download [Modulus.swiftpm.zip](Modulus.swiftpm.zip), uncompress it and open with the Swift Playgrounds App. For a better experience, use either an iPad 11-inch or 13-inch.
